@@ -24,7 +24,8 @@ author:
  
 # URL settings
 url: "https://alialbakri.github.io"
-baseurl: "/MPB"
+baseurl: ""
+# /MPB
 # "https://alialbakri.github.io" #
 # /MPB
 permalink: /:title/
