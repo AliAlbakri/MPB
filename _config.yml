@@ -23,7 +23,7 @@ author:
   avatar: /assets/img/personal2.PNG # change with your own avatar
 
 # URL settings
-url: "" #
+url: "https://alialbakri.github.io" #
 baseurl: "/MPB"
 # /MPB
 permalink: /:title/
