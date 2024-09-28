@@ -1,12 +1,12 @@
 <footer class="footer">
-  <a class="footer_item sep" href="/thanks">ack.</a>
+  <a class="footer_item sep" href="{{ site.baseurl }}/thanks">ack.</a>
   <a class="footer_item" target="_blank" href="https://drive.google.com/file/d/1e1qv8r_9BJeRD28HPg65d5l8-nwoGUux/view?usp=sharing">resume</a> 
   <br>
   <span class="footer_item">&copy; {{ site.time | date: "%Y" }} Ali Albakri. All Rights Reserved</span>
   
   
 </footer>
-<script src="/assets/js/main.js" defer="defer"></script>
+<script src="{{ site.baseurl}}/assets/js/main.js" defer="defer"></script>
 {%- if site.google_analytics -%}
   <!-- Google tag (gtag.js) -->
   <script
@@ -24,12 +24,12 @@
   </script>
 {%- endif -%}
 {%- if page.url == '/archive/' -%}
-  <script src="/assets/js/search.min.js"></script>
+  <script src="{{ site.baseurl}}/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('search-results'),
-      json: '/assets/search.json',
+      json: '{{ site.baseurl}}/assets/search.json',
     });
   </script>
 {%- endif -%}
