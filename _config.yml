@@ -24,7 +24,8 @@ author:
 
 # URL settings
 url: "" #
-baseurl: "MPB"
+baseurl: ""
+# /MPB
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
