@@ -23,8 +23,8 @@ author:
   avatar: /assets/img/personal2.PNG # change with your own avatar
 
 # URL settings
-url: "https://AliAlbakri.com" #
-baseurl:
+url: "" #
+baseurl: "MPB"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
