@@ -1,0 +1,15 @@
+---
+---
+
+@import "main";
+
+
+
+.sep::after {
+    content: " |";  
+    margin-left: 10px;  /* Add space to the left of the separator */
+}
+
+.sep:last-child::after {
+    content: "";  /* No separator after the last item */
+}

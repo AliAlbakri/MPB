@@ -1,0 +1,92 @@
+# Site settings
+title: Ali Albakri # site title
+description: >- # site description
+  Ali shares insights on product management, fintech, and startups, documenting his journey and experiences in the ever-evolving world of payments. 
+  Join him here as he explores innovation and supports the next wave of groundbreaking ideas through angel investing.
+lang: en-US # default lang
+timezone: Asia/Riyadh # set your timezone
+image: assets/img/Personal.jpg # This image used for Open Graph more info https://ogp.me/
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Ali Albakri # author name
+  bio: >- # tell to the world
+    Hello, I'm Ali, a passionate product manager with a keen interest in the dynamic world of payments and startups. 
+    My journey is fueled by a deep-seated enthusiasm for startups and a commitment to angel investing, 
+    where I aim to nurture and support the next wave of groundbreaking ideas. Follow me on <a href="https://x.com/0xalipm" target="_blank" rel="noopener">Twitter</a>.
+
+    
+  username: Ali # general username
+  twitter: 0xalipm # twitter username
+  email: albakri.aliahmed@gmail.com # email adress
+  avatar: /assets/img/personal2.PNG # change with your own avatar
+
+# URL settings
+url: "https://AliAlbakri.com" #
+baseurl:
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
