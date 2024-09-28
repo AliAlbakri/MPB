@@ -21,10 +21,11 @@ author:
   twitter: 0xalipm # twitter username
   email: albakri.aliahmed@gmail.com # email adress
   avatar: /assets/img/personal2.PNG # change with your own avatar
-
+ 
 # URL settings
-url: "https://alialbakri.github.io" #
-baseurl: "/MPB"
+# url: "https://alialbakri.github.io"
+# baseurl: "/MPB"
+# "https://alialbakri.github.io" #
 # /MPB
 permalink: /:title/
 google_analytics: # leave it blank if not wish
