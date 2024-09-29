@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Beginning of a Journey: What to Expect from This Blog"
-date:   2024-09-29 08:29:20 +0700
+date: 2024-09-29 08:29:20 +0700
 # categories: jekyll update
 usemathjax: true
 # layout: default
