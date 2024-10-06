@@ -24,11 +24,20 @@ When you hire the best, you're not just getting their individual output. You're 
 There's an added benefit to this approach that's often overlooked: **innovative culture**. When you have a team of exceptional performers, you can maintain a culture of excellence naturally. You don't need to micromanage or implement complex performance review systems. High performers, left to their own devices, will often create a culture of accountability and innovation that no HR initiative could ever match.
 
 Ironically, many large corporations understand this principle and try to implement it. But they face a different challenge: **their existing culture**. 
-A slow corporate bureaucracy can crush the creativity of even the most talented individual. Startups, being smaller and more agile, have a unique opportunity to create an environment where top talent can thrive.
+A slow corporate bureaucracy can crush the creativity of even the most talented individuals. Startups, being smaller and more agile, have a unique opportunity to create an environment where top talent can thrive.
 
 So, to the founders reading this: Stop thinking of talent as an expense to be minimized. Instead, view it as the fuel that will power your rocket ship. Be willing to pay what seems like an unreasonable amount for the right person. Because in the long run, the truly unreasonable move is trying to change the world with a team of merely competent individuals.
 
-#### Remember, in the startup world, talent density is destiny. Build a team of stars, and you might just become one yourself.
+##### Remember, in the startup world, talent density is destiny. Build a team of stars, and you might just become one yourself.
+
+<br>
+
+<font color="888888">
+    <b style="color: #888888;">Thanks</b> to Amin Fadul, Sudi, Shan, and Chris Hgues
+for reading drafts of this.</font>
+<br>
+
+<hr style="border: none; height: 2px; background-color: black;">
 
 
 
