@@ -30,14 +30,6 @@ So, to the founders reading this: Stop thinking of talent as an expense to be mi
 
 ##### Remember, in the startup world, talent density is destiny. Build a team of stars, and you might just become one yourself.
 
-<br>
-
-<font color="888888">
-    <b style="color: #888888;">Thanks</b> to Amin Fadul, Sudi, Shan, and Chris Hgues
-for reading drafts of this.</font>
-<br>
-
-<hr style="border: none; height: 2px; background-color: black;">
 
 
 
