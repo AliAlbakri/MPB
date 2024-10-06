@@ -28,6 +28,7 @@ A slow corporate bureaucracy can crush the creativity of even the most talented 
 
 So, to the founders reading this: Stop thinking of talent as an expense to be minimized. Instead, view it as the fuel that will power your rocket ship. Be willing to pay what seems like an unreasonable amount for the right person. Because in the long run, the truly unreasonable move is trying to change the world with a team of merely competent individuals.
 
-#### Remember, in the startup world, talent density is destiny. Build a team of stars, and you might just become one yourself.**
+#### Remember, in the startup world, talent density is destiny. Build a team of stars, and you might just become one yourself.
+
 
 
