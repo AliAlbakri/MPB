@@ -9,7 +9,7 @@ comments: true
 
 ---
 
- Startups are like rockets. They need immense energy to escape the gravitational pull of obscurity and competition. But unlike rockets, which burn fuel, startups **burn talent**. And just as a rocket can't reach orbit with second-rate fuel, a startup can't achieve escape velocity with mediocre talent.
+ Startups are like rockets. They need immense energy to escape the gravitational pull of obscurity and competition. But unlike rockets, which burn fuel, startups **burn talent**. And just as a rocket can't reach orbit with second-rate fuel, a startup can't achieve **escape velocity** with mediocre talent.
 
 The recurring tragedy I've observed in the startup world is the constant struggle to retain top talent. It's a pattern so common, you could set your watch by it: A promising startup, flush with funding and ambition, manages to hire a brilliant engineer or visionary product manager. For a brief, shining moment, it seems like they've cracked the code. But then, almost inevitably, that star employee departs, leaving the startup scrambling.
 
@@ -26,7 +26,7 @@ There's an added benefit to this approach that's often overlooked: **innovative 
 Ironically, many large corporations understand this principle and try to implement it. But they face a different challenge: **their existing culture**. 
 A slow corporate bureaucracy can crush the creativity of even the most talented individuals. Startups, being smaller and more agile, have a unique opportunity to create an environment where top talent can thrive.
 
-So, to the founders reading this: Stop thinking of talent as an expense to be minimized. Instead, view it as the fuel that will power your rocket ship. Be willing to pay what seems like an unreasonable amount for the right person. Because in the long run, the truly unreasonable move is trying to change the world with a team of merely competent individuals.
+So, to the founders reading this: Stop thinking of talent as an expense to be minimized. Instead, view it as the fuel that will power your rocket ship. Be willing to pay what seems like an unreasonable amount for the right person. Because in the long run, the truly unreasonable move is trying to change the world with a team of mediocre individuals.
 
 ##### Remember, in the startup world, talent density is destiny. Build a team of stars, and you might just become one yourself.
 
