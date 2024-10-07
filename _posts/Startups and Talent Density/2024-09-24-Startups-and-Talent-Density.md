@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Startups and Talent Density"
-date:   2024-10-06 +
+date:   2024-10-07 +
 # categories: jekyll update
 usemathjax: true
 # layout: default
