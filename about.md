@@ -1,12 +1,11 @@
 ---
-# title: Colophon
+title: About Me
 permalink: /about/
 # layout: page
 # excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 # comments: false
 ---
 
-# About Me
  I'm Ali, a product contributor with a passion for technology, innovation, and the dynamic world of startups. With a Bachelor of Science in Software Engineering from <a href="https://kfupm.edu.sa/home" target="_blank" rel="noopener">KFUPM</a>. 
  
   My fintech journey has been a thrilling ride through the heart of payment innovation. At <a href="https://tamara.co" target="_blank" rel="noopener">Tamara</a>, Saudi Arabia's first fintech unicorn, I orchestrated seamless payment experiences across the GCC. My path then led me to <a href="https://Salla.sa" target="_blank" rel="noopener">Salla</a>, where I revolutionized the checkout experience, aligning it with cutting-edge market trends. 
