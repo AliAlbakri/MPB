@@ -15,6 +15,6 @@ permalink: /about/
 I am deeply interested in product management, startups, and angel investing. My work is driven by Agile methodologies and a commitment to delivering high-quality products that meet both market demands and customer needs.
 
 
-
+ 
 # Let's Connect
 I'm eager to connect with like-minded individuals who share an interest in technology and innovation. Feel free to reach out to me via email at [albakri.aliahmed@gmail.com](mailto:albakri.aliahmed@gmail.com). You can also follow my thoughts and updates on <a href="https://x.com/0xalipm" target="_blank" rel="noopener">X</a>. Let's explore opportunities to collaborate and innovate together!
