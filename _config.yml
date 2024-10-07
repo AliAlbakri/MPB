@@ -6,7 +6,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Riyadh # set your timezone
 image: assets/img/personal2.PNG # This image used for Open Graph more info https://ogp.me/
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
