@@ -8,6 +8,7 @@ usemathjax: true
 comments: true
 
 ---
+<img src="/assets/img/starship.JPG" alt="Description of image" style="display: block; margin-left: auto; margin-right: auto; width: 100%; height: 320px; object-fit: cover; object-position: 50% 30%;">
 
  Startups are like rockets. They need immense energy to escape the gravitational pull of obscurity and competition. But unlike rockets, which burn fuel, startups **burn talent**. And just as a rocket can't reach orbit with second-rate fuel, a startup can't achieve **escape velocity** with mediocre talent.
 
@@ -33,7 +34,7 @@ So, to the founders reading this: Stop thinking of talent as an expense to be mi
 <br>
 
 <font color="888888">
-    <b style="color: #888888;">Thanks</b> to Shantanu Thakre, Chris Hughes, and Bashar Alnajjar
+    <b style="color: #888888;">Thanks</b> to Shantanu Thakre, Chris Hughes, Amin Fadul, and Bashar Alnajjar
 for reading drafts of this.</font>
 <br>
 
